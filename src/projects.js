@@ -24,7 +24,7 @@ export default [
         id: 3,
         name: "Fridge2Pan",
         image: "https://images.unsplash.com/photo-1606859191214-25806e8e2423?q=80&w=2035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        url: "https://iridescent-centaur-ba6fe9.netlify.app/",
+        url: "https://fridge2app.netlify.app/",
         gitHub: "https://github.com/mavSeneris/Fridge2Pan",
         description: "Your ulitimate recipe and meal planning app! Discover recipes, search by available ingredients in your fridge and efficiently plan your meals. Reduce food waste and improve your cooking.",
         stacks: ["HTML", "CSS", "JavaScript", "React", "React Router", "Firebase", "ChatGPT"],
