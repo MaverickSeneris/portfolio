@@ -4,7 +4,7 @@ import Header from "./ui/sections/Header/HeaderNav"
 import About from "./ui/sections/About/About"
 import MyStack from "./ui/sections/TechStacks/MyStack"
 import MyProjects from "./ui/sections/Projects/MyProjects"
-import Footer from "./ui/sections/Footer/Footer"
+import Footer from "./ui/sections/Footer/FooterSection"
 import './assets/styles/App.css'
 
 
