@@ -1,4 +1,4 @@
-import FooterLinks from "./components/footerLinks"
+import FooterLinks from "./components/FooterLinks"
 
 export default function Footer() {
     const currentYear = new Date().getFullYear();
