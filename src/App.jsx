@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from "react"
-import Header from "./ui/sections/Header/Header"
+import Header from "./ui/sections/Header/HeaderNav"
 import About from "./ui/sections/About/About"
 import MyStack from "./ui/sections/TechStacks/MyStack"
 import MyProjects from "./ui/sections/Projects/MyProjects"
