@@ -16,7 +16,7 @@ export default [
     id: 2,
     name: "E-Commerce UI",
     image:
-      "https://i.pinimg.com/564x/68/08/5b/68085be21e57a744cfdcca4a6f1e3f31.jpg",
+      "https://apparelmagazine.co.nz/wp-content/uploads/2022/07/AP-Feature-Image-2.jpg",
     url: "https://maavcc.netlify.app/",
     gitHub: "https://github.com/MaverickSeneris/maav",
     description:
