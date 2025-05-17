@@ -7,8 +7,6 @@ import MyProjects from "./ui/sections/Projects/MyProjects"
 import Footer from "./ui/sections/Footer/FooterSection"
 import './assets/styles/App.css'
 
-
-
 function App() {
   const [darkMode, setDarkMode] = useState(() => JSON.parse(localStorage.getItem('darkMode')) || false)
 

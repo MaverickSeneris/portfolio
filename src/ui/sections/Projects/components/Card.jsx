@@ -1,4 +1,13 @@
-export default function Card({ thumbnail, stacks, description, gitHub, url, name }) {
+import { FaGithub, FaLink } from "react-icons/fa";
+
+export default function Card({
+  thumbnail,
+  stacks,
+  description,
+  gitHub,
+  url,
+  name,
+}) {
   return (
     <div className="project">
       <div className="project-wrapper">
@@ -15,8 +24,9 @@ export default function Card({ thumbnail, stacks, description, gitHub, url, name
                 href={gitHub}
                 target="_blank"
                 className="project-description-link"
+                rel="noopener noreferrer"
               >
-                <i className="fab fa-github"></i>
+                <FaGithub size={20} />
               </a>
             </div>
             <div className="project-description-links">
@@ -24,8 +34,9 @@ export default function Card({ thumbnail, stacks, description, gitHub, url, name
                 href={url}
                 target="_blank"
                 className="project-description-link"
+                rel="noopener noreferrer"
               >
-                <i className="fas fa-link"></i>
+                <FaLink size={20} />
               </a>
             </div>
           </div>
