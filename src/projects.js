@@ -66,7 +66,7 @@ export default [
     id: 5,
     name: "POS",
     image:
-      "https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://images.unsplash.com/photo-1705948353971-745c16a81c66?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     url: "https://voluble-hummingbird-1bbf54.netlify.app/",
     gitHub: "https://github.com/MaverickSeneris/pos",
     description:
