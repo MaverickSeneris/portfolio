@@ -60,6 +60,30 @@ export default [
       "Openweather API",
       "Google Geolocation API",
     ],
-    type: "Web app",
+    type: "PWA",
+  },
+  {
+    id: 5,
+    name: "POS",
+    image:
+      "https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    url: "https://voluble-hummingbird-1bbf54.netlify.app/",
+    gitHub: "https://github.com/MaverickSeneris/pos",
+    description:
+      "A lightweight, responsive Point-of-Sale web application designed for small convenience stores and caf�s. Features include real-time inventory tracking, dynamic order summary, cart management, and automatic stock adjustments. Built with React and localStorage for offline capability, with a clean UI optimized for both desktop and tablet use.",
+    stacks: ["React", "TailwindCSS"],
+    type: "PWA",
+  },
+  {
+    id: 6,
+    name: "Resto-POS",
+    image:
+      "https://images.unsplash.com/photo-1556741533-6e6a62bd8b49?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    url: "https://restop-pos-beta.netlify.app/",
+    gitHub: "https://github.com/MaverickSeneris/resto-pos",
+    description:
+      "A lightweight, responsive Point-of-Sale web application designed for small convenience stores and caf�s. Features include real-time inventory tracking, dynamic order summary, cart management, and automatic stock adjustments. Built with React and localStorage for offline capability, with a clean UI optimized for both desktop and tablet use.",
+    stacks: ["React", "TailwindCSS"],
+    type: "PWA",
   },
 ];
