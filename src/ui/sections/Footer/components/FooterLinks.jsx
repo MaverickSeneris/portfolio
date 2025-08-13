@@ -8,7 +8,7 @@ export default function FooterLinks() {
             href: "https://github.com/MaverickSeneris"
         },
         {
-            name: "LinkeIn",
+            name: "LinkedIn",
             href: "https://www.linkedin.com/in/maverick-seneris-50800b275/"
         },
         {

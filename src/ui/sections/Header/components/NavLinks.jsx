@@ -26,7 +26,7 @@ export default function NavLinks({ themeStyles }) {
         );
       })}
       <button className="btn-contact">
-        <a href="mailto:mavseneris@gmail.com">Contact</a>
+        <a href="mailto:maverickseneris@proton.me">Contact</a>
       </button>
     </div>
   );
