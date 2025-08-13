@@ -5,7 +5,7 @@ export default function FooterLinks() {
     const footerLinks = [
         {
             name: "Github",
-            href: "https://github.com/mavSeneris"
+            href: "https://github.com/MaverickSeneris"
         },
         {
             name: "LinkeIn",
@@ -13,7 +13,7 @@ export default function FooterLinks() {
         },
         {
             name: "Mail",
-            href: "mailto:maverickseneris@email.com"
+            href: "mailto:maverickseneris@proton.me"
         },
         {
             name: "Resume",
